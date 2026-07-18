@@ -1,0 +1,13 @@
+# core pipeline
+numpy>=2.0
+pandas>=2.2
+pyarrow>=15
+
+# figures + notebook
+matplotlib>=3.8
+nbformat>=5.9
+nbclient>=0.9
+ipykernel>=6.29
+
+# LSTM method only (run_lstm.py / lstm_factors.py)
+torch>=2.2

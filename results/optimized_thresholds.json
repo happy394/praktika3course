@@ -1,0 +1,37 @@
+{
+  "pca_const": {
+    "g_open": 1.3,
+    "g_close": 0.9,
+    "profit": 1.232986741084551,
+    "n_trades": 674,
+    "runtime_s": 11.7
+  },
+  "pca_var": {
+    "g_open": 1.2,
+    "g_close": 0.5,
+    "profit": 1.2122347502033417,
+    "n_trades": 592,
+    "runtime_s": 11.9
+  },
+  "etf_real": {
+    "g_open": 2.4,
+    "g_close": 1.0,
+    "profit": 0.18614221096319872,
+    "n_trades": 54,
+    "runtime_s": 11.5
+  },
+  "etf_real3": {
+    "g_open": 2.4,
+    "g_close": 1.0,
+    "profit": 0.17897731227189517,
+    "n_trades": 60,
+    "runtime_s": 11.7
+  },
+  "etf_sector": {
+    "g_open": 1.7,
+    "g_close": 0.8,
+    "profit": 0.475011163845229,
+    "n_trades": 322,
+    "runtime_s": 11.9
+  }
+}

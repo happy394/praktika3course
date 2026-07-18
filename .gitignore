@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+
+# regenerable / heavy
+data/lstm/
+data/_cache_*.parquet
+figures/print/
+report_print.html
+
+# never commit the copyrighted source paper
+*.pdf
+!statarb_moex_report.pdf
